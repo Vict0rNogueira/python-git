@@ -7,3 +7,6 @@
  ```bash
 pip install -r requirements.txt
 ```
+```
+- Rode a aplicação utilizando o "uvicorn"
+```
